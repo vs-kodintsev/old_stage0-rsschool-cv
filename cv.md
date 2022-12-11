@@ -16,4 +16,15 @@
 * ##### Git
 * ##### Python
 *****
+## Code Example:
+```
+print('Hello, world!')
+```
+***
+## Education:
+##### Saint-Petersburg State Marine Technical University: 
+* ##### Bachelor’s degree in Maritime Engineering
+* ##### Master’s degree in Maritime Engineering
 
+## English:
+##### Pre-intermediate 
